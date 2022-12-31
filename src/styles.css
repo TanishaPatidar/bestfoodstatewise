@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.imgFood {
+  display: block;
+  width: 20%;
+  height: 90px;
+  text-align: center;
+  margin: auto;
+  padding: 0.5rem;
+  padding-bottom: 1rem;
+}
+
+.btnStyle {
+  padding: 1rem;
+  margin-top: 1rem;
+  margin-right: 0.6rem;
+  background-color: rgb(97, 96, 184);
+  color: white;
+}
